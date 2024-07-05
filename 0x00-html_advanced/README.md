@@ -1,11 +1,13 @@
-0x00. Advanced HTML
-Description:bulb:
-How to use HTML tags to structure a web page
+## 0x00. Advanced HTML
 
-Which guidelines to follow for HTML
-How to create the skeleton of an HTML5 page
-How to use semantic HTML tags to structure a web page
-Which use cases to use div vs span
+## Description:bulb:
+
+# How to use HTML tags to structure a web page
+
+# Which guidelines to follow for HTML
+# How to create the skeleton of an HTML5 page
+# How to use semantic HTML tags to structure a web page
+# Which use cases to use div vs span
 The semantic value's of header, main, footer, article, nav, section, aside
 How to use headings (and why it's important to follow the hierarchical order)
 How to make lists in HTML
@@ -15,7 +17,9 @@ How to integrate a video in a webpage
 How to integrate an audio file in a webpage
 How to embed external content
 How to correctly structure an HTML page
+
 Resources:books:
+
 Read or watch:
 
 [HTML - elements of a web page] (https://intranet.hbtn.io/concepts/139)
