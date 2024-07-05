@@ -1,4 +1,4 @@
-dvanced HTML
+0x00. Advanced HTML
 Description:bulb:
 How to use HTML tags to structure a web page
 
@@ -112,4 +112,3 @@ Add a video player
 Add an audio player
 40. Add a iframe example in the styleguide
 Add an iframe example
-
